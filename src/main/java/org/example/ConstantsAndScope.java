@@ -1,5 +1,4 @@
-package org.example;
-
+package ru.mentee.power;
 public class ConstantsAndScope {
     public static final int MAX = 34567;
     public static final String MIN = "NAME";

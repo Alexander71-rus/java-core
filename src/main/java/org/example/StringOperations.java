@@ -1,4 +1,4 @@
-package org.example;
+package ru.mentee.power;
 public class StringOperations {
     public static void main(String[] args) {
         String q="Alexander";

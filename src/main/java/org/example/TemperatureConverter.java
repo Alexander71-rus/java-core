@@ -1,4 +1,4 @@
-package org.example;
+package ru.mentee.power;
 
 class TemperatureConverter {
     public static void main(String[] args) {
