@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3814911f-edb8-4d58-8399-df15a05282a0" name="Changes" comment="MP-19 Готово все 5 задач решены" />
+    <list default="true" id="3814911f-edb8-4d58-8399-df15a05282a0" name="Changes" comment="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +86,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762883030987</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям">
+      <option name="closed" value="true" />
+      <created>1762883329665</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762883329665</updated>
+    </task>
+    <task id="LOCAL-00005" summary="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям">
+      <option name="closed" value="true" />
+      <created>1762883424797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762883424797</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
