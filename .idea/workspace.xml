@@ -10,6 +10,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -77,13 +78,22 @@
       <option name="project" value="LOCAL" />
       <updated>1762882956286</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MP-19 Готово все 5 задач решены">
+      <option name="closed" value="true" />
+      <created>1762883030987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762883030987</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MP-19 Готово все 5 задач рещены" />
     <MESSAGE value="MP-19 Готово все 5 задач решены" />
-    <option name="LAST_COMMIT_MESSAGE" value="MP-19 Готово все 5 задач решены" />
+    <MESSAGE value="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям" />
+    <option name="LAST_COMMIT_MESSAGE" value="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
