@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3814911f-edb8-4d58-8399-df15a05282a0" name="Changes" comment="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям" />
+    <list default="true" id="3814911f-edb8-4d58-8399-df15a05282a0" name="Changes" comment="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -40,19 +47,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.java-core [:org.example.ConstantsAndScope.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java-core [:ru.mentee.power.ConstantsAndScope.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java-core [:ru.mentee.power.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.java-core [:ru.mentee.power.TemperatureConverter.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Project/java-core/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.java-core [:org.example.ConstantsAndScope.main()].executor": "Run",
+    "Gradle.java-core [:ru.mentee.power.ConstantsAndScope.main()].executor": "Run",
+    "Gradle.java-core [:ru.mentee.power.Main.main()].executor": "Run",
+    "Gradle.java-core [:ru.mentee.power.TemperatureConverter.main()].executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "d",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user",
+    "onboarding.tips.debug.path": "C:/Project/java-core/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Project\java-core" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -102,8 +117,39 @@
       <option name="project" value="LOCAL" />
       <updated>1762883424797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="В этом файле описаны решения задач , в данном файле 5 заданий: 1)Персональная карта содержит информацию обо мне&#10;&#10;температурный конвертер переводит температуры из одних в другие&#10;строковые операции перевод из различных типов данных&#10;в классе мейн представлены операции касаемо сложения вычитания умножения деления типов данных&#10;в пятом классе представлены все действия по предыдущим заданиям">
+      <option name="closed" value="true" />
+      <created>1762883837015</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762883837015</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="MP-20" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MP-19 Готово все 5 задач рещены" />
